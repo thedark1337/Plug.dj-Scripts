@@ -3,7 +3,7 @@
 
 ### Info
 
-This is a repository of misc. scripts I made to work with plug's playlists.
+Note that as of september 28th 2015  [plug.dj][plugdj-url] has shut down. This is here as a legacy repository, however the scripts may be adapted to work for other alternate sites as long as licensing is followed. I have also shut down plug2youtube. Thank you to all the users of  [plug.dj][plugdj-url].
 
 The script media2file.js supports converting a playlist from [plug.dj][plugdj-url] to a text file in the format of:
 
@@ -12,7 +12,7 @@ The script media2file.js supports converting a playlist from [plug.dj][plugdj-ur
  thedark1337 - First Track (WIP) https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/75136737
 ```
 
-The script plug2youtube.js supports converting a playlist from [plug.dj][plugdj-url] to a modal popup that can then be used to convert it to a YouTube playlist via [Plug2Youtube](https://p2y.thedark1337.com)
+The script plug2youtube.js supports converting a playlist from [plug.dj][plugdj-url] to a modal popup that can then be used to convert it to a YouTube playlist via Plug2Youtube.
 
 ### Usage
 
